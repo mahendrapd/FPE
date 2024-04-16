@@ -1,0 +1,69 @@
+ Destination Port,788.08
+ Protocol,68.66
+ Flow Duration,591.26
+ Total Fwd Packets,10.1
+ Total Backward Packets,9.78
+Total Length of Fwd Packets,13.66
+ Total Length of Bwd Packets,5.93
+ Fwd Packet Length Max,76.9
+ Fwd Packet Length Min,15.82
+ Fwd Packet Length Mean,63.24
+ Fwd Packet Length Std,99.86
+Bwd Packet Length Max,237.65
+ Bwd Packet Length Min,40.92
+ Bwd Packet Length Mean,321.53
+ Bwd Packet Length Std,299.34
+Flow Bytes/s,0.09
+ Flow Packets/s,5.29
+ Flow IAT Mean,9.46
+ Flow IAT Std,32.85
+ Flow IAT Max,116.6
+ Flow IAT Min,0.71
+Fwd IAT Total,575.67
+ Fwd IAT Mean,9.4
+ Fwd IAT Std,91.45
+ Fwd IAT Max,110.66
+ Fwd IAT Min,1.21
+Bwd IAT Total,552.66
+ Bwd IAT Mean,11.46
+ Bwd IAT Std,82.33
+ Bwd IAT Max,97.17
+ Bwd IAT Min,0.3
+Fwd PSH Flags,176.45
+ Fwd Header Length,10.36
+ Bwd Header Length,12.36
+Fwd Packets/s,23.5
+ Bwd Packets/s,710.66
+ Min Packet Length,59.2
+ Max Packet Length,192.84
+ Packet Length Mean,313.31
+ Packet Length Std,306.06
+ Packet Length Variance,74.71
+FIN Flag Count,43.14
+ SYN Flag Count,176.45
+ RST Flag Count,0.78
+ PSH Flag Count,903.9
+ ACK Flag Count,706.96
+ URG Flag Count,218.43
+ ECE Flag Count,0.78
+ Down/Up Ratio,7.87
+ Average Packet Size,255.47
+ Avg Fwd Segment Size,63.24
+ Avg Bwd Segment Size,321.53
+ Fwd Header Length.1,10.36
+Subflow Fwd Packets,10.1
+ Subflow Fwd Bytes,13.66
+ Subflow Bwd Packets,9.78
+ Subflow Bwd Bytes,5.93
+Init_Win_bytes_forward,38.16
+ Init_Win_bytes_backward,142.06
+ act_data_pkt_fwd,10.03
+ min_seg_size_forward,86.89
+Active Mean,3.86
+ Active Std,5.31
+ Active Max,11.25
+ Active Min,2.17
+Idle Mean,99.76
+ Idle Std,14.47
+ Idle Max,104.65
+ Idle Min,91.32
