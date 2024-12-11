@@ -22,7 +22,7 @@ def fpefs(data):
     for f in range (nfeatures):
         K=X.iloc[:,f]
         da=K.iloc[0]
-        if (isinstance(da,numbers.Number) or isinstance(da,numbers.Real)):
+        if ((isinstance(da,numbers.Number) or isinstance(da,numbers.Real)) and (K.max()-K.min())>0) :
             K=round(((K-K.min())/(K.max()-K.min())),2)
             X.iloc[:,f]=pd.Series(K)
     #print(col,size) #print columns and rows of training set
