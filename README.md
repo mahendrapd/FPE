@@ -1,11 +1,15 @@
-1.  Mahendra Prasad, Pankaj Pal, Sachin Tripathi, and Keshav Dahal, “Ai/ml driven intrusion detection framework for iot-enabled cold storage monitoring system,” Security and Privacy, Wiley, 2024.
-2.	Mahendra Prasad, Sachin Tripathi, and Keshav Dahal, “An efficient feature selection based Bayesian and Rough set approach for intrusion detection”, Applied Soft Computing Journal, Elsevier, 2020, 87, 105980, DOI: 10.1016/j.asoc.2019.105980.
-3.	Mahendra Prasad, Sachin Tripathi, and Keshav Dahal, “Unsupervised feature selection and cluster center initialization based arbitrary shaped clusters for intrusion detection”, Computers and Security, Elsevier, 2020, 99, 102062, DOI: 10.1016/j.cose.2020.102062.
-4.	Mahendra Prasad, Sachin Tripathi, and Keshav Dahal, “An intelligent intrusion detection and performance reliability evaluation mechanism in mobile ad-hoc networks”, Engineering Applications of Artificial Intelligence, Elsevier, 2023, 119, 105760, DOI: 10.1016/j.engappai.2022.105760.
-5.	Mahendra Prasad, Sachin Tripathi, and Keshav Dahal, “A probability estimation-based feature reduction and Bayesian rough set approach for intrusion detection in mobile ad-hoc network”, Applied Intelligence, Springer, 2022, DOI: 10.1007/s10489-022-03763-2.
-6.	Mahendra Prasad, Sachin Tripathi, and Keshav Dahal, “An enhanced detection system against routing attacks in mobile ad-hoc network”, Wireless Networks, Springer, 2022, 28(4), pp. 1411–1428, DOI: 10.1007/s11276-022-02913-1.
-7.	Mahendra Prasad, Rahul Kumar Gupta, and Sachin Tripathi, “A Multi-level Correlation-Based Feature Selection for Intrusion Detection”, Arabian Journal for Science and Engineering, Springer, 2022, 47(8), pp. 10719–10729, DOI: 10.1007/s13369-022-06760-2.
-
-1.	Mahendra Prasad, Sachin Tripathi, and Keshav Dahal, “Wormhole attack detection in ad hoc network using machine learning technique”, 10th International Conference on Computing, Communication and Networking Technologies, ICCCNT 2019, IEEE, 2019, DOI: 10.1109/ICCCNT45670.2019.8944634.
-2.	Mahendra Prasad, Sachin Tripathi, and Keshav Dahal, “Intrusion Detection in Ad Hoc Network Using Machine Learning Technique”, Communications in Computer and Information Science, 1317, pp. 60–71, Springer, 2020, DOI: 10.1007/978-3-030-62625-9_6.
-3.	Mahendra Prasad and Alok Singh, “A novel hybrid ant colony optimization approach to terminal assignment problem”, ACM International Conference Proceeding Series, 2016, 12-13-August-2016, a29, DOI: 10.1145/2979779.2979808.
+Feature Probability Estimation (FPE)
+-------------------------------------
+We have deployed an FPE Library on Python that users can directly use by installing the library and importing the data. <br>
+Install the Library by typing the following pip command in the terminal:
+<h3>
+pip install fpe-lib==0.1.2
+</h3>
+<br>
+This GitHub directory contains all programs that are <br>
+1. Execute FPE using Library (<i><b>fbelib.py</b></i>) <br>
+2. Execute FPE with code (<b><i>fpe.py</i></b>) <br>
+3. Execute classification methods used in the paper (<b><i>classification.py</i></b>) <br>
+4. Execute feature selection methods used in the paper (<b><i>fscif.py</i></b>)<br>
+<br><br>
+There are other data uploaded on this GitHub repository, like outcomes of feature selection methods, classification methods, processed training and test sets, etc.
